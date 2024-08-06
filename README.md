@@ -29,5 +29,6 @@
   </p>
 </div>
 
+## Sample Augmented Image Data
 
-<img src="https://github.com/user-attachments/assets/6983d675-12b1-4000-b943-ff6dc8b6bc07" width=600/>
+<img src="https://github.com/user-attachments/assets/7654674e-05b5-440f-99dd-c4a4ac987b57" width=600>
