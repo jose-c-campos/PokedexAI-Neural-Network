@@ -3,6 +3,10 @@
   <h1 align="left">PokédexAI Neural Network</h1>
 </span>
 
+This Python file contains code extracted from the Jupyter Notebook where I trained the ResNet-9 convolutional neural network for the PokédexAI project. It showcases the various techniques and optimizations I implemented to enhance the model's performance. For a comprehensive understanding of the training process and the methodologies used, please explore the complete repository.
+
+If you're interested in the PokédexAI website and the user interface I developed around this neural network, I invite you to read my detailed blog post. It provides an in-depth look at the design and features that make PokédexAI an engaging and powerful tool for Pokémon enthusiasts.
+
 ## Model Loss and Accuracy Over Time
 
 <img src="https://github.com/user-attachments/assets/f6437b6d-4bb1-4af3-8c68-091737e30ee1" width=350 height=300 />
