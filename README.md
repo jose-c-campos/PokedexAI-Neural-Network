@@ -2,7 +2,8 @@
   <img src="https://cdn-icons-png.flaticon.com/512/6461/6461928.png" width=40 height=40 align="left">
   <h1 align="left">PokédexAI Neural Network</h1>
 </span>
-<img src="https://github.com/user-attachments/assets/5d7e2909-d63b-4a07-b791-913024aeb901" width=700/ >
+
+## About
 
 This Python file contains code extracted from the Jupyter Notebook where I trained the ResNet-9 convolutional neural network for the PokédexAI project. It showcases the various techniques and optimizations I implemented to enhance the model's performance. For a comprehensive understanding of the training process and the methodologies used, please explore the complete repository.
 
