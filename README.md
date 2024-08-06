@@ -5,8 +5,8 @@
 
 ## Model Loss and Accuracy Over Time
 
-<img src="https://github.com/user-attachments/assets/f6437b6d-4bb1-4af3-8c68-091737e30ee1" width=300 >
-<img src="https://github.com/user-attachments/assets/71975d5b-4a79-4b50-8093-b08efc76be8d" width=300>
+<img src="https://github.com/user-attachments/assets/f6437b6d-4bb1-4af3-8c68-091737e30ee1" width=350 height=350>
+<img src="https://github.com/user-attachments/assets/71975d5b-4a79-4b50-8093-b08efc76be8d" width=350 height=350>
 
 
 ## Training Techniques Used
