@@ -3,4 +3,4 @@
   <h1 align="left">PokédexAI Neural Network</h1>
 </span>
 
-<img src="https://www.researchgate.net/profile/Gideon-Kowadlo/publication/363585139/figure/fig1/AS:11431281084637224@1663298427348/ResNet-9-architecture-A-convolutional-neural-net-with-9-layers-and-skip-connections.ppm" width=600/>
+<img src="https://github.com/user-attachments/assets/6983d675-12b1-4000-b943-ff6dc8b6bc07" width=600/>
