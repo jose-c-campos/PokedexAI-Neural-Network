@@ -5,8 +5,8 @@
 
 ## Model Loss and Accuracy Over Time
 
-<img src="https://github.com/user-attachments/assets/f6437b6d-4bb1-4af3-8c68-091737e30ee1" width=350 height=300>
-<img src="https://github.com/user-attachments/assets/71975d5b-4a79-4b50-8093-b08efc76be8d" width=350 height=300>
+<img src="https://github.com/user-attachments/assets/f6437b6d-4bb1-4af3-8c68-091737e30ee1" width=350 height=300 />
+<img src="https://github.com/user-attachments/assets/71975d5b-4a79-4b50-8093-b08efc76be8d" width=350 height=300 />
 
 
 ## Training Techniques Used
@@ -27,8 +27,19 @@
     Data Augmentation involves creating additional training examples by applying various transformations such as rotations, translations and flips to existing image. This increases the diversity of the training data
     without needing to collect more samples. By expanding the training dataset, it makes the model more robbust to variations in the input images, enhancing its ability to generalize, and increasing its classificaiton accuracy
   </p>
+  <p>
+    <h4>Image Normalization</h4>
+    Normalization standardizes the input images by scaling pixel values to a consistent range of [0,1] or [-1,1]. This involves calculating the mean and standard deviation of pixel values to ensure the data has zero mean
+    and unit variance. 
+  </p>
 </div>
 
-## Sample Augmented Image Data
+## Dataset Class Distribution
 
-<img src="https://github.com/user-attachments/assets/7654674e-05b5-440f-99dd-c4a4ac987b57" width=600>
+
+<img src="https://github.com/user-attachments/assets/33e88cbc-8d3b-44aa-8db7-308b2fd0904d" width=900/>
+
+
+## Sample Augmented & Normalized Image Data
+
+<img src="https://github.com/user-attachments/assets/7654674e-05b5-440f-99dd-c4a4ac987b57" width=600 />
